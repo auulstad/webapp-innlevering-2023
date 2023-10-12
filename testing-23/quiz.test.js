@@ -23,6 +23,14 @@ describe('Quiz Questions', () => {
           expect(answer.answer).toBeTruthy();
         });
       });
+
+      it('should not have duplicate questions', () => {
+        const questionTitles = quizData.questions.map((question) => question.title);
+        const uniqueQuestionTitles = new Set(questionTitles);
+    
+        expect(questionTitles.length).toBe(uniqueQuestionTitles.size);
+      });
+
     });
   });
 });
