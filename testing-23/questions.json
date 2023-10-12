@@ -1,0 +1,60 @@
+{
+    "questions": [
+      {
+        "title": "Hvilket spill inneholder en battle royale modus kalt 'Warzone'?",
+        "answers": [
+          { "answer": "Fortnite" },
+          { "answer": "Apex Legends" },
+          { "answer": "Overwatch" },
+          {
+            "answer": "Call of Duty: Modern Warfare",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Hint: Spillet er en populært skytespill med militærtema."
+        }
+      },
+      {
+        "title": " I hvilken spillserie er hovedkarakteren kalt 'Link'?",
+        "answers": [
+          {
+            "answer": "The Legend of Zelda",
+            "correct": true
+          },
+          { "answer": "Final Fantasy" },
+          { "answer": "The Elder Scrolls" },
+          { "answer": "Dark Souls" }
+        ],
+        "helper": {
+          "text": "Hint: Protagonisten bruker en grønn tunic i de eldre spillene i serien. "
+        }
+      },
+      {
+        "title": "Hva er målet i spillet 'Minecraft'?",
+        "answers": [
+          { "answer": "Slå Ender Dragon",  "correct": true },
+          { "answer": "Bygge den største byen" },
+          { "answer": "Finne et gulleple" },
+          { "answer": "Rømme fra øya med livet i behold" }
+        ],
+        "helper": {
+          "text": "Hint: Man må inn i en annen dimensjon for å gjøre en gitt ting"
+        }
+      },
+      {
+        "title": "Hvilket spill er kjent for sitatet: 'Git Gud'?",
+        "answers": [
+          { "answer": "Dark Souls", "correct": true },
+          {
+            "answer": "The Legend of Zelda"
+          },
+          { "answer": "Final Fantasy" },
+          { "answer": "Super Mario Bros." }
+        ],
+        "helper": {
+          "text": "Hint: Sitatet er ofte assosiert med et svært utfordrende action-rollespill. "
+        }
+      }
+    ]
+  }
