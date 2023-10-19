@@ -9,3 +9,7 @@ Håper jeg ev. kan få tilbakemelding på hvorfor ting ikke fungerer og jeg bare
 Ellers en liten tilbakemelding, som jeg også sendte på Fullstækk. 
 
 Hadde vært greit med en oppdatert video, m bruk av riktig Next. Det blir litt ekstra jobb med å komme seg fra A til Å når man må google litt i tillegg, og ikke vet hvordan ting skal endres mtp. hva som har endra seg i React eller Next fra videoen ble spilt inn. 
+
+Håper på forståelse for dette, ettersom det ikke er alltid man har tid eller overskudd til å sitte mye lenger enn de 15 timene man allerede sitter med faget for å få en grunnleggende forståelse. 
+
+Ha en fin helg! :D 
