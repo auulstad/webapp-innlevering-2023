@@ -1,0 +1,17 @@
+.nav-bar {
+    background-color: #f9f9f9;
+    margin-bottom: 1rem;
+    color: black;
+
+  }
+  
+  .nav-bar ul {
+    margin: 0;
+    padding: 0.5rem;
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+  }
+  
